@@ -1,0 +1,6 @@
+{
+  "name": "GWorship Pro - Presentasi Ibadah & Alkitab Offline",
+  "description": "Aplikasi presentasi ibadah dan acara lintas platform (EasyWorship / ProPresenter style) dengan penyimpanan lokal offline IndexedDB, dual-screen live projector output, multi-device sync, lirik lagu, dan Alkitab digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
